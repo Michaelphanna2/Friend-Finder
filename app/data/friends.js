@@ -102,6 +102,6 @@ var villains = [
         "5"
       ]
     }
-  ];
+  ]
   
   module.exports = villains;
